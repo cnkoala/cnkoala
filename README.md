@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cnkoala
-- 👀 I’m interested in Javascript, Vue and EggJs
-- 🌱 I’m currently learning C and CPP, which are totally different with JS
+- 👀 I’m interested in Javascript, Vue, EggJs, C/C++
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Please contact me: cnkoala@gmail.com
 
